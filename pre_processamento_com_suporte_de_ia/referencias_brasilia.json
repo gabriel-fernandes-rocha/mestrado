@@ -1,0 +1,361 @@
+{
+    "SCS": {
+        "expandido": "SETOR COMERCIAL SUL",
+        "variantes": [
+            "SCS",
+            "S C S"
+        ]
+    },
+    "SCN": {
+        "expandido": "SETOR COMERCIAL NORTE",
+        "variantes": [
+            "SCN",
+            "S C N"
+        ]
+    },
+    "SQS": {
+        "expandido": "SUPER QUADRA SUL",
+        "variantes": [
+            "SQS",
+            "S Q S",
+            "SQ SUL"
+        ]
+    },
+    "SQN": {
+        "expandido": "SUPER QUADRA NORTE",
+        "variantes": [
+            "SQN",
+            "S Q N",
+            "SQ NORTE"
+        ]
+    },
+    "SQSW": {
+        "expandido": "SUPER QUADRA SUDOESTE",
+        "variantes": [
+            "SQSW",
+            "S Q S W",
+            "SQ SUDOESTE"
+        ]
+    },
+    "SQNW": {
+        "expandido": "SUPER QUADRA NOROESTE",
+        "variantes": [
+            "SQNW",
+            "S Q N W",
+            "SQ NOROESTE"
+        ]
+    },
+    "CLS": {
+        "expandido": "COMERCIO LOCAL SUL",
+        "variantes": [
+            "CLS",
+            "C L S"
+        ]
+    },
+    "CLN": {
+        "expandido": "COMERCIO LOCAL NORTE",
+        "variantes": [
+            "CLN",
+            "C L N"
+        ]
+    },
+    "CLSW": {
+        "expandido": "COMERCIO LOCAL SUDOESTE",
+        "variantes": [
+            "CLSW",
+            "C L S W"
+        ]
+    },
+    "CLNW": {
+        "expandido": "COMERCIO LOCAL NOROESTE",
+        "variantes": [
+            "CLNW",
+            "C L N W"
+        ]
+    },
+    "SBS": {
+        "expandido": "SETOR BANCARIO SUL",
+        "variantes": [
+            "SBS",
+            "S B S"
+        ]
+    },
+    "SBN": {
+        "expandido": "SETOR BANCARIO NORTE",
+        "variantes": [
+            "SBN",
+            "S B N"
+        ]
+    },
+    "SDS": {
+        "expandido": "SETOR DE DIVERSOES SUL",
+        "variantes": [
+            "SDS",
+            "S D S"
+        ]
+    },
+    "SDN": {
+        "expandido": "SETOR DE DIVERSOES NORTE",
+        "variantes": [
+            "SDN",
+            "S D N"
+        ]
+    },
+    "SHS": {
+        "expandido": "SETOR HOTELEIRO SUL",
+        "variantes": [
+            "SHS",
+            "S H S"
+        ]
+    },
+    "SHN": {
+        "expandido": "SETOR HOTELEIRO NORTE",
+        "variantes": [
+            "SHN",
+            "S H N"
+        ]
+    },
+    "SHTS": {
+        "expandido": "SETOR DE HOTEIS E TURISMO SUL",
+        "variantes": [
+            "SHTS",
+            "S H T S"
+        ]
+    },
+    "SHTN": {
+        "expandido": "SETOR DE HOTEIS E TURISMO NORTE",
+        "variantes": [
+            "SHTN",
+            "S H T N"
+        ]
+    },
+    "SAUS": {
+        "expandido": "SETOR DE AUTARQUIAS SUL",
+        "variantes": [
+            "SAUS",
+            "S A U S",
+            "SAS"
+        ]
+    },
+    "SAUN": {
+        "expandido": "SETOR DE AUTARQUIAS NORTE",
+        "variantes": [
+            "SAUN",
+            "S A U N",
+            "SAN"
+        ]
+    },
+    "SGAS": {
+        "expandido": "SETOR DE GRANDES AREAS SUL",
+        "variantes": [
+            "SGAS",
+            "S G A S"
+        ]
+    },
+    "SGAN": {
+        "expandido": "SETOR DE GRANDES AREAS NORTE",
+        "variantes": [
+            "SGAN",
+            "S G A N"
+        ]
+    },
+    "SCES": {
+        "expandido": "SETOR DE CLUBES ESPORTIVOS SUL",
+        "variantes": [
+            "SCES",
+            "S C E S"
+        ]
+    },
+    "SCEN": {
+        "expandido": "SETOR DE CLUBES ESPORTIVOS NORTE",
+        "variantes": [
+            "SCEN",
+            "S C E N"
+        ]
+    },
+    "SHIS": {
+        "expandido": "SETOR DE HABITACOES INDIVIDUAIS SUL",
+        "variantes": [
+            "SHIS",
+            "S H I S"
+        ]
+    },
+    "SHIN": {
+        "expandido": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
+        "variantes": [
+            "SHIN",
+            "S H I N"
+        ]
+    },
+    "SHCGS": {
+        "expandido": "SETOR HABITACIONAL DE CASAS GEMINADAS SUL",
+        "variantes": [
+            "SHCGS",
+            "S H C G S",
+            "SHIGS"
+        ]
+    },
+    "SHCGN": {
+        "expandido": "SETOR HABITACIONAL DE CASAS GEMINADAS NORTE",
+        "variantes": [
+            "SHCGN",
+            "S H C G N"
+        ]
+    },
+    "SMU": {
+        "expandido": "SETOR MILITAR URBANO",
+        "variantes": [
+            "SMU",
+            "S M U"
+        ]
+    },
+    "SIA": {
+        "expandido": "SETOR DE INDUSTRIA E ABASTECIMENTO",
+        "variantes": [
+            "SIA",
+            "S I A"
+        ]
+    },
+    "SIG": {
+        "expandido": "SETOR DE INDUSTRIAS GRAFICAS",
+        "variantes": [
+            "SIG",
+            "S I G"
+        ]
+    },
+    "EQS": {
+        "expandido": "ENTREQUADRA SUL",
+        "variantes": [
+            "EQS",
+            "E Q S"
+        ]
+    },
+    "EQN": {
+        "expandido": "ENTREQUADRA NORTE",
+        "variantes": [
+            "EQN",
+            "E Q N"
+        ]
+    },
+    "SRTVS": {
+        "expandido": "SETOR DE RADIO E TELEVISAO SUL",
+        "variantes": [
+            "SRTVS",
+            "S R T V S"
+        ]
+    },
+    "SRTVN": {
+        "expandido": "SETOR DE RADIO E TELEVISAO NORTE",
+        "variantes": [
+            "SRTVN",
+            "S R T V N"
+        ]
+    },
+    "SHLS": {
+        "expandido": "SETOR HOSPITALAR LOCAL SUL",
+        "variantes": [
+            "SHLS",
+            "S H L S"
+        ]
+    },
+    "SHLN": {
+        "expandido": "SETOR HOSPITALAR LOCAL NORTE",
+        "variantes": [
+            "SHLN",
+            "S H L N"
+        ]
+    },
+    "SAIS": {
+        "expandido": "SETOR DE AREAS ISOLADAS SUL",
+        "variantes": [
+            "SAIS",
+            "S A I S"
+        ]
+    },
+    "SAIN": {
+        "expandido": "SETOR DE AREAS ISOLADAS NORTE",
+        "variantes": [
+            "SAIN",
+            "S A I N"
+        ]
+    },
+    "QI": {
+        "expandido": "QUADRA INTERNA",
+        "variantes": [
+            "QI",
+            "Q I"
+        ]
+    },
+    "QL": {
+        "expandido": "QUADRA DO LAGO",
+        "variantes": [
+            "QL",
+            "Q L"
+        ]
+    },
+    "SMDB": {
+        "expandido": "SETOR DE MANSOES DOM BOSCO",
+        "variantes": [
+            "SMDB",
+            "S M D B"
+        ]
+    },
+    "SOF": {
+        "expandido": "SETOR DE OFICINAS",
+        "variantes": [
+            "SOF",
+            "S O F",
+            "SOF SUL",
+            "SOF NORTE"
+        ]
+    },
+    "SGCV": {
+        "expandido": "SETOR DE GARAGENS E CONCESSIONARIAS DE VEICULOS",
+        "variantes": [
+            "SGCV",
+            "S G C V"
+        ]
+    },
+    "AOS": {
+        "expandido": "AREA OCTOGONAL SUL",
+        "variantes": [
+            "AOS",
+            "A O S"
+        ]
+    },
+    "QRSW": {
+        "expandido": "QUADRA RESIDENCIAL SUDOESTE",
+        "variantes": [
+            "QRSW",
+            "Q R S W"
+        ]
+    },
+    "EPIA": {
+        "expandido": "ESTRADA PARQUE INDUSTRIA E ABASTECIMENTO",
+        "variantes": [
+            "EPIA",
+            "E P I A"
+        ]
+    },
+    "EPTG": {
+        "expandido": "ESTRADA PARQUE TAGUATINGA",
+        "variantes": [
+            "EPTG",
+            "E P T G"
+        ]
+    },
+    "EPNB": {
+        "expandido": "ESTRADA PARQUE NUCLEO BANDEIRANTE",
+        "variantes": [
+            "EPNB",
+            "E P N B"
+        ]
+    },
+    "EPDB": {
+        "expandido": "ESTRADA PARQUE DOM BOSCO",
+        "variantes": [
+            "EPDB",
+            "E P D B"
+        ]
+    }
+}
